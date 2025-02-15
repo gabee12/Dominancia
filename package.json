@@ -1,0 +1,33 @@
+{
+  "name": "dominancia",
+  "version": "0.0.1",
+  "description": "Dominancia Oprimida",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabee12/Dominancia.git"
+  },
+  "keywords": [
+    "bot",
+    "discord"
+  ],
+  "author": "Gabriel Echeverria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabee12/Dominancia/issues"
+  },
+  "homepage": "https://github.com/gabee12/Dominancia#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.10.0",
+    "@discordjs/voice": "^0.18.0",
+    "discord.js": "^14.18.0",
+    "sodium": "^3.0.2"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.20.0",
+    "eslint": "^9.20.1"
+  }
+}
